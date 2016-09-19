@@ -1,4 +1,4 @@
-# Minecraft Server Manager [![Build Status][status-img]][status] [![Donate to MSM][donate-img]][donate]
+# Minecraft Server Manager [![Build Status][status-img]][status] [![Code Climate](https://codeclimate.com/github/morbeo/msm/badges/gpa.svg)](https://codeclimate.com/github/morbeo/msm) [![Issue Count](https://codeclimate.com/github/morbeo/msm/badges/issue_count.svg)](https://codeclimate.com/github/morbeo/msm) [![Donate to MSM][donate-img]][donate]
 
 [status-img]: https://api.travis-ci.org/msmhq/msm.svg?branch=master
 [status]: http://travis-ci.org/msmhq/msm
